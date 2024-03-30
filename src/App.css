@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 100vh;
+  /* background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(80, 84, 135, 1) 64%
+  ); */
+
+  /* background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%); */
+
+  /* background: #4ca1af; /* fallback for old browsers */
+  /* background: -webkit-linear-gradient(
+    to right,
+    #c4e0e5,
+    #4ca1af
+  ); Chrome 10-25, Safari 5.1-6 */
+  /* background: linear-gradient(
+    to right,
+    #c4e0e5,
+    #4ca1af
+  ); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  background-image: url(https://images.unsplash.com/photo-1696789990524-e1282ade1bf0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80);
+  /* object-fit: cover; */
+  background-position: center;
+}
